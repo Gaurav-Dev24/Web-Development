@@ -1,2 +1,2 @@
 # Web-Development
-Files including Javascript,Html5,CSS3 and ReactJS
+Files including Javascript,Html5,CSS3,ReactJS
